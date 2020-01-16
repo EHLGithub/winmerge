@@ -40,11 +40,11 @@ msgstr "Copiar al lado &izquierdo"
 
 #, c-format
 msgid "Copy &from Left"
-msgstr ""
+msgstr "Copiar desde la izquierda"
 
 #, c-format
 msgid "Copy fro&m Right"
-msgstr ""
+msgstr "Copiar desde la derecha"
 
 #, c-format
 msgid "&Select Line Difference"
